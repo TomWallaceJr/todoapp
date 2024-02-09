@@ -10,5 +10,10 @@ const config: Config = {
     extend: {},
   },
   plugins: [require("daisyui")],
+  daisyui: {
+    themes: [
+      "light", // This sets the default theme to 'light'
+    ],
+  },
 };
 export default config;
