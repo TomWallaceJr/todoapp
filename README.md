@@ -29,3 +29,5 @@ Using interfaces, particularly in TypeScript, offers several benefits that enhan
    Interfaces can be used to define conditional types that allow for more complex and flexible type manipulations. They also support polymorphism, enabling a single function to accept arguments of multiple types as long as they adhere to the interface, enhancing code's generic capabilities.
 
    In summary, interfaces in TypeScript are a powerful feature for designing robust, readable, and maintainable codebases. They enforce a structure for objects and classes, improve development tools' effectiveness, and facilitate safe code refactoring and extension
+
+Implemens CRUD functioonality
